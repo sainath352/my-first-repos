@@ -1,0 +1,6 @@
+Name =" Sainath"
+SUC="2358250297"
+RollNo ="48"
+Hallticket="230377401197"
+Course= "BCA"
+College name="Aditya degree college"
